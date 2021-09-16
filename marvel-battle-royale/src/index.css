@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Marvel Font';
+  src: url('./fonts/BlackWidowMovie-d95Rg.ttf');
+}
+#header {
+  font-size: xx-large;
+  text-align: center;
+  background-color: #ed1d24;
+}
+#header h1 {
+  font-family: 'Marvel Font';
+  font-size: 4em;
+  color: #ffffff;
+}
+#charSelect {
+  background-color: #ed1d24;
+}
